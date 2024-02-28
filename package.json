@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cypress": "^13.6.4"
+  },
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e"  
+  }
+}
